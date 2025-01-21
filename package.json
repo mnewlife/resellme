@@ -1,4 +1,7 @@
 {
+  "name": "resellme",
+  "version": "0.0.1",
+  "description": "A Node.js Resellme SDK (resellme.co.zw) - Domain and Hosting Management",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -9,6 +12,24 @@
     "build": "tsup",
     "test": "jest"
   },
+  "keywords": [
+    "resellme",
+    "resellme.co.zw",
+    "resellme sdk",
+    "domain",
+    "domain registration",
+    "domain transfer",
+    "domain renewal",
+    "domain management",
+    "hosting",
+    "web hosting",
+    "email hosting",
+    "vps hosting",
+    "dedicated hosting",
+    "reseller hosting"
+  ],
+  "author": "Newlife Marangwanda",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^29.5.14",
